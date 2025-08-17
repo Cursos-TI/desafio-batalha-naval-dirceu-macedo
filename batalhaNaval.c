@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h> // para abs() usado no octaedro
+#include <stdlib.h> // Necessário para usar abs()
 
 #define TAM_TABULEIRO 10   // Tamanho fixo do tabuleiro
 #define TAM_NAVIO 3        // Tamanho fixo de cada navio
